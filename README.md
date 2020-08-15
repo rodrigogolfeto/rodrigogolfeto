@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 🙋‍♂️
+
+I am a Systems Analyst graduated from UFMS and I have been dedicated as a Full Stack Web Developer at Grupo InfoShop since 2018, in the following projects:
+🔰 ShopCar;
+🔰 InfoImóveis;
+🔰 EmConsulta.
+
+💡 In addition to using web development technologies, I collaborated to apply management tools where we had a significant increase in the level of productivity. 
 
 <!--
 **rodrigogolfeto/rodrigogolfeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
